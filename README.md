@@ -1,6 +1,6 @@
 # Sleep MS
 
-Simple program to sleep for a number of milliseconds, instead of seconds
+Simple Linux program to sleep for a number of milliseconds, instead of seconds
 
 ## Installation
 
